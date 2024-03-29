@@ -1,4 +1,3 @@
-// IComponent.cs
 using System;
 
 public interface IComponent<T>

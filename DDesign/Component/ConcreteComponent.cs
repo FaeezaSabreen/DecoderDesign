@@ -1,4 +1,4 @@
-// ConcreteComponent.cs
+
 using System;
 
 public class ConcreteComponent : IComponent<string>
